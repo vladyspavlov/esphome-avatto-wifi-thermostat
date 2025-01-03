@@ -1,0 +1,1 @@
+# esphome-avatto-wifi-thermostat
