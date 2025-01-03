@@ -18,4 +18,6 @@ Replaced with ESP-C3-12F
 > To enter flashing mode GPIO8 need to be pulled high (to VCC) and GPIO9 pulled low  
 > Preflash module before solder to the board
 
+[Flashing guide](https://github.com/espressif/esp-idf/issues/9005#issuecomment-1878941288)
+
 <img src="https://github.com/user-attachments/assets/e24fc948-8d01-45a8-96fb-244b848b8731" alt="Replaced ESP-C3-12F" width="500" />
