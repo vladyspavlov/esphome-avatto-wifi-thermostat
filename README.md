@@ -5,6 +5,7 @@ https://www.aliexpress.com/item/1005006902833391.html
 
 <img src="https://github.com/user-attachments/assets/63bfc073-f346-4c63-9e43-525a7d93bdd8" alt="Thermostat image" width="500" />
 
+`Product: '{"p":"m3j5wouhgsvjlma9","v":"1.0.0","m":0}'`
 
 # Hardware
 WBR3 (RTL8710) inside  
