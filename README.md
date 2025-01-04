@@ -22,6 +22,25 @@ This repository contains the ESPHome configuration for the **Avatto Tuya Wi-Fi T
 ### Replacement Hardware
 
 - **Module:** ESP-C3-12F
+- **Product Link:** [AliExpress](https://www.aliexpress.com/item/1005004475310734.html)
+
+<details>
+   <summary>esptool flash_id output</summary>
+   
+   ```
+   Chip is ESP32-C3 (QFN32) (revision v0.3)
+   Features: WiFi, BLE, Embedded Flash 4MB (XMC)
+   Crystal is 40MHz
+   MAC: 84:f7:03:b6:b2:70
+   Uploading stub...
+   Running stub...
+   Stub running...
+   Manufacturer: 20
+   Device: 4016
+   Detected flash size: 4MB
+   ```
+   
+</details>
    
 <img src="https://github.com/user-attachments/assets/e24fc948-8d01-45a8-96fb-244b848b8731" alt="Replaced ESP-C3-12F" width="500" />
 
