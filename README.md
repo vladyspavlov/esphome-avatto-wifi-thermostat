@@ -4,6 +4,8 @@
 
 ## Description
 
+<img src="https://github.com/user-attachments/assets/368a2296-467e-4e3b-9bb2-4ee4fa601caf" alt="Home Assistant device page" width="600" />
+
 This repository contains the ESPHome configuration for the **Avatto Tuya Wi-Fi Thermostat**, enabling seamless integration with Home Assistant and other smart home systems. By leveraging ESPHome, you can customize and enhance the functionality of your thermostat, providing greater control and automation capabilities.
 
 **Product Link:** [AliExpress - Avatto Tuya Wi-Fi Thermostat](https://www.aliexpress.com/item/1005006902833391.html)  
